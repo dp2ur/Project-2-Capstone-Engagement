@@ -18,7 +18,7 @@ The following machines live on the network:
 |ELK | 192.168.1.100   |
 |Azure Hyper-V ML-RefVm-684427 | 192.168.1.1   |
 
-![alt text](https://github.com/joshblack07/UR-Cyber-Security-Red_vs_Blue/blob/main/Supplemental%20Resources/Red_V_Blue_Network_Diagram.jpg "Network Diagram")
+![alt text](https://github.com/dp2ur/Project-2-Capstone-Engagement/blob/main/Network%20Topology%20P2.png)
 
 # Red Team
 
